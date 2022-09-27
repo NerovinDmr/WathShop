@@ -3,13 +3,7 @@ import 'firebase/firestore'; // for the db
 import 'firebase/auth';
 
 const config = {
-  apiKey: "AIzaSyATPDO3ltQjioL4h_LwzgvW2PfFIMSS_ZQ",
-  authDomain: "nomad-bags-store.firebaseapp.com",
-  databaseURL: "https://nomad-bags-store.firebaseio.com",
-  projectId: "nomad-bags-store",
-  storageBucket: "nomad-bags-store.appspot.com",
-  messagingSenderId: "463459585373",
-  appId: "1:463459585373:web:382c9dac918e125a106cb4"
+ 
 }
 
 firebase.initializeApp(config);
